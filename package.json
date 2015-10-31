@@ -1,0 +1,19 @@
+{
+  "name": "fresh-cache",
+  "version": "0.0.1",
+  "description": "",
+  "main": "fresh-cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAntaki/node-fresh-cache.git"
+  },
+  "author": "Chris Antaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisAntaki/node-fresh-cache/issues"
+  },
+  "homepage": "https://github.com/ChrisAntaki/node-fresh-cache#readme"
+}
